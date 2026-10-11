@@ -43,16 +43,6 @@ graph TD
     classDef highlight fill:#312e81,stroke:#818cf8,stroke-width:2px,color:#fff;
 ```
 
-### Curriculum and Learning Outcomes
-
-| Phase                              | Milestone                           | Key Technologies                                         | Core Competencies                                                                         |
-| ---------------------------------- | ----------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Step 1: Foundations**            | Python and Systems Engineering      | Python 3.11+, Pydantic, FastAPI                          | Asynchronous programming, type safety, API development, and clean data contracts          |
-| **Step 2: Knowledge Systems**      | LLMs, RAG, and Vector Databases     | n8n, pgvector, Chroma, Qdrant, OpenAI and Anthropic APIs | Semantic search, knowledge retrieval, prompt engineering, and workflow automation         |
-| **Step 3: Agentic Systems**        | Agents and Tool Integration         | LangChain, LangGraph, MCP, A2A                           | Stateful workflows, tool calling, multi-agent coordination, and error recovery            |
-| **Step 4: Enterprise Engineering** | Governance and Production Readiness | LiteLLM, Langfuse, LangSmith, Guardrails AI              | Token and cost management, rate limiting, tracing, evaluation, security, and auditability |
-
----
 
 ## Technology Stack and Architecture
 
